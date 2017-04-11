@@ -13,11 +13,11 @@ To run the container run: `make run`. By default this will mount the `$HOME/dev/
 
 The container has done the initial setup for you so you can jump to the Prepare the App step for the language of your choice:
 
-[Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs#prepare-the-app)
-[Ruby](https://devcenter.heroku.com/articles/getting-started-with-ruby#prepare-the-app)
-[Java](https://devcenter.heroku.com/articles/getting-started-with-java#prepare-the-app)
-[PHP](https://devcenter.heroku.com/articles/getting-started-with-php#prepare-the-app)
-[Python](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)
-[Go](https://devcenter.heroku.com/articles/getting-started-with-go#introduction)
-[Scala](https://devcenter.heroku.com/articles/getting-started-with-scala#introduction)
-[Clojure](https://devcenter.heroku.com/articles/getting-started-with-clojure#introduction)
+- [Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs#prepare-the-app)
+- [Ruby](https://devcenter.heroku.com/articles/getting-started-with-ruby#prepare-the-app)
+- [Java](https://devcenter.heroku.com/articles/getting-started-with-java#prepare-the-app)
+- [PHP](https://devcenter.heroku.com/articles/getting-started-with-php#prepare-the-app)
+- [Python](https://devcenter.heroku.com/articles/getting-started-with-python#prepare-the-app)
+- [Go](https://devcenter.heroku.com/articles/getting-started-with-go#prepare-the-app)
+- [Scala](https://devcenter.heroku.com/articles/getting-started-with-scala#prepare-the-app)
+- [Clojure](https://devcenter.heroku.com/articles/getting-started-with-clojure#prepare-the-app)
