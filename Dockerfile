@@ -2,7 +2,7 @@ FROM debian
 
 MAINTAINER foospidy
 
-RUN apt-get update && apt-get -y install curl vim software-properties-common apt-transport-https
+RUN apt-get update && apt-get -y install curl vim software-properties-common apt-transport-https gnupg
 
 RUN add-apt-repository "deb https://cli-assets.heroku.com/branches/stable/apt ./" \
     && curl -L https://cli-assets.heroku.com/apt/release.key | apt-key add - \
